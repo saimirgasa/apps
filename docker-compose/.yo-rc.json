@@ -1,0 +1,13 @@
+{
+  "generator-jhipster": {
+    "appsFolders": ["gateway", "blog", "store"],
+    "clusteredDbApps": [],
+    "deploymentType": "docker-compose",
+    "directoryPath": "../",
+    "dockerRepositoryName": "saimirgasa",
+    "gatewayType": "SpringCloudGateway",
+    "jwtSecretKey": "YjdlY2FiYWM3YmY0MGZkODY3YjkyOTIzMGEzNDA5N2Y3NmU3ZWJkNDk4YmVkYjk2MmRmZWQ1YjdiMmJjYjc3NzE5MjNmODZiYzdjYTM0NDNjOTViY2Q5ZDVlMDFiODJhZjMyMA==",
+    "monitoring": "no",
+    "serviceDiscoveryType": "eureka"
+  }
+}
